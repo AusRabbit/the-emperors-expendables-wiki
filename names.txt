@@ -1,0 +1,74 @@
+# Canonical names only - pass to the transcriber with --names.
+# Do NOT add misspellings here; they belong in corrections.json.
+Arden Vel
+Bay Nine
+Black Warrant
+Captain Ilse Wove
+Cathal's Reach
+Cathal's Reach garrison
+Central Computer Core
+Colonel Doran Rennick
+Communications Control
+Corrl
+Cresh Spike
+Eleena
+Eleena Daru
+Elo Kesh
+Galdrek Voss
+ID-sweep officers
+Kalax
+Kennaud "Kenno" Thorn
+Kennaud Thorn
+Kenno
+Kordyne
+Kordyne Security Solutions
+Lieutenant Sera Korr
+Major Cassian Vorn
+Marn
+Marn Oshel
+Master Sergeant Bant Corrl
+Mournful Credit
+Penal Black-Ops Program
+R6-K4
+R6-K4 "Rusk"
+RX-44
+RX-44 "Rex"
+Redfall
+Redfall Station
+Redfall cantina
+Rennick
+Rex
+Rusk
+Sera
+Sera (Kalax's Enforcer)
+Sera Korr
+Sergeant Lysa Venn
+Station Chief Arden Vel
+Sure Thing
+Telsa
+Telsa Brie
+The Cathal's Reach Garrison
+The Cautious Nikto
+The Central Computer Core
+The Code Cylinder
+The Detention Vessel
+The Emperor's Dirty Dozen
+The Forged Permits
+The ID-Sweep Officers
+The Imperial Penal Black-Ops Program
+The Logger's House
+The Nikto gunman
+The Redfall Cantina
+The Vannix Evidence
+The collars
+Vannix
+Vannix Station
+Vannix evidence
+Vesh
+Vesh Talorr
+Vorn
+Wove
+code cylinder
+detention vessel
+forged permits
+logger's house
