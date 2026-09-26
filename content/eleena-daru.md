@@ -11,13 +11,18 @@ A blue-skinned Twi'lek smuggler and scoundrel, sentenced for trying to rob "the 
 
 ## History
 
+- Began in custody at [[annex-17]] alongside [[kenno-thorn]]. A failed escape and a Cage Market fight against [[kalax]]'s crew got her marked as a dangerous prospect.
+- Kept a stolen, matte-black Imperial [[code-cylinder]] hidden on her person from the start. [[elo-kesh]] knows it exists.
 - Once smoke-bombed [[vesh-talorr]] and left him to face armed trouble alone. He remembers.
-- Carries an officer-grade Imperial [[code-cylinder]]. [[elo-kesh]] knows it exists.
 - Made enemies of [[kalax]] and especially [[sera]] on [[vannix-station]].
 
 ## On Vannix
 
-Killed the [[cautious-nikto|Cautious Nikto]] with a frag grenade in the escape from the wreck. Took [[telsa-brie]] hostage in the [[central-computer-core]], bought a ceasefire from [[kalax]] and [[sera]] with the promise of collar freedom, and then moved to execute [[telsa-brie]] once her usefulness was nearly spent — which is what turned [[sera]]'s gun on her. Executed a pinned checkpoint trooper during the drop, and forced the lockdown bulkhead open with her [[code-cylinder]]. At the debrief she told [[cassian-vorn]] the truth about [[telsa-brie]], and it served her better than [[kenno-thorn]]'s lie served him.
+Badly hurt in the crash of the [[mournful-credit]]. In the fight in the wreck she destroyed [[sera]]'s improvised weapon and killed [[cautious-nikto|the Nikto]] with a frag grenade. She tried to bargain with [[kalax]] and [[sera]] at a sealed service iris and got locked out for it.
+
+She got [[telsa-brie]] talking with a clumsy insult followed by a smooth reframe, flirted with [[kenno-thorn]] through her own field dressing, and revealed her [[code-cylinder]] to get the crew into the [[central-computer-core]]. There she took [[telsa-brie]] hostage, bought a ceasefire with the promise of collar freedom, and then moved to execute [[telsa-brie]] — which turned [[sera]]'s gun on her. Her attempt to turn [[kalax]] against his partner failed badly.
+
+Her underworld instincts found the way out: [[bay-nine]], a bribe berth off the manifest. She executed a pinned checkpoint trooper during the drop, and forced the lockdown bulkhead with her [[code-cylinder]]. At the debrief she told [[cassian-vorn]] the truth about [[telsa-brie]], and it served her better than [[kenno-thorn]]'s lie served him.
 
 ## On Cathal's Reach
 

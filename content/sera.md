@@ -7,8 +7,10 @@ short: "Sera"
 dek: "Kalax's partner. Drew on Eleena to keep Telsa alive."
 ---
 
-Collared prisoner, and [[kalax]]'s enforcer and partner on [[vannix-station]]. Not to be confused with [[sera-korr]], an Imperial officer on the same station.
+A collared prisoner, chain-fighter, and [[kalax]]'s enforcer and partner. Not to be confused with [[sera-korr]], an Imperial officer on [[vannix-station]].
 
-She twice argued that [[telsa-brie]] was worth keeping alive. When [[eleena-daru]] moved to execute [[telsa-brie]] anyway, Sera caught it and levelled her weapon at [[eleena-daru]]. [[kalax]] would not make her stand down. She is [[eleena-daru]]'s enemy now.
+She went for [[eleena-daru]] in the wreck of the [[mournful-credit]], and [[eleena-daru]] destroyed her improvised weapon. She and [[kalax]] got away, then locked the crew out at a sealed service iris.
 
-The crew blamed her alongside [[kalax]] at the debrief. [[cassian-vorn]] read her as a loyalist who protects whoever she has decided is worth protecting, and accepted that she had stalled the mission. Her fate is unconfirmed.
+In the [[central-computer-core]] she argued that [[telsa-brie]] had kept the loop alive when she could have sold them all out. When [[eleena-daru]] moved to execute [[telsa-brie]] anyway, Sera caught it and levelled her weapon at [[eleena-daru]]: *"Don't."* When [[eleena-daru]] insulted her in front of [[kalax]], she stared him down too. She is [[eleena-daru]]'s enemy now.
+
+The crew blamed her alongside [[kalax]] at the debrief. [[cassian-vorn]] read her as a loyalist who protects whoever she has decided is worth protecting. Her fate is unconfirmed.

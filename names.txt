@@ -1,5 +1,6 @@
 # Canonical names only - pass to the transcriber with --names.
 # Do NOT add misspellings here; they belong in corrections.json.
+Annex 17
 Arden Vel
 Bay Nine
 Black Warrant
@@ -16,6 +17,7 @@ Eleena Daru
 Elo Kesh
 Galdrek Voss
 ID-sweep officers
+ISB
 Kalax
 Kennaud "Kenno" Thorn
 Kennaud Thorn
@@ -29,6 +31,7 @@ Marn Oshel
 Master Sergeant Bant Corrl
 Mournful Credit
 Penal Black-Ops Program
+Penal Processing Annex 17
 R6-K4
 R6-K4 "Rusk"
 RX-44
@@ -56,14 +59,15 @@ The Emperor's Dirty Dozen
 The Forged Permits
 The ID-Sweep Officers
 The Imperial Penal Black-Ops Program
+The Imperial Security Bureau
 The Logger's House
 The Nikto gunman
 The Redfall Cantina
 The Vannix Evidence
 The collars
 Vannix
+Vannix Relay Station
 Vannix Station
-Vannix evidence
 Vesh
 Vesh Talorr
 Vorn

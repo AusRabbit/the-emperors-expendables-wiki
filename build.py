@@ -29,8 +29,8 @@ CAMPAIGN = {
     "description": ("Campaign archive for The Emperor's Expendables \u2014 "
                     "session recaps, timeline and a cross-linked cast."),
     # Footer on every page (HTML allowed): where this material comes from.
-    "source_note": ("Sessions 1\u20133 were compiled from the campaign ledger rather than "
-                    "a recording, and hold only what the party learned at the table \u2014 "
+    "source_note": ("Sessions 1\u20133 were compiled from the campaign ledger and the GM's "
+                    "Discord posts rather than a recording, and hold only what the party learned at the table \u2014 "
                     "no GM secrets. Later sessions will come from Craig recordings "
                     "transcribed with <code>faster-whisper</code>."),
 }

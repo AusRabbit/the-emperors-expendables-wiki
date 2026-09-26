@@ -4,16 +4,18 @@ group: "Places"
 type: place
 conf: hi
 short: "Vannix"
-dek: "The station where the Empire staged a pirate raid to bury a massacre."
+aka: ["Vannix Relay Station"]
+dek: "A half-refitted relay station, where the Empire staged a pirate raid to bury a massacre."
 ---
 
-The target of Mission 01. The official story was a pirate raid: the [[mournful-credit]] crashed into the station, and the prisoners aboard were meant to recover data, erase evidence and remove witnesses while that story held.
+Vannix Relay Station, a refit yard only partly through its refit, and the target of Mission 01. The crew's orders were to recover its central data core, erase its records, stage a pirate attack and leave no witnesses. The pirate story began with the [[mournful-credit]] crashing into it.
 
-What the crew found instead was proof of an Imperial massacre, carried by [[telsa-brie]] and [[rusk]]. They also learned the truth about their own [[cresh-spike]] collars.
+What the crew found instead was proof of an Imperial massacre, carried by [[telsa-brie]] and [[rusk]], and the truth about their own [[cresh-spike]] collars.
 
 Places the crew passed through:
 
+- A maintenance collar, where the [[mournful-credit]] came to rest, and the service conduits and crawlways beyond it.
 - [[communications-control]] — where they found the [[vannix-evidence|evidence]].
 - [[central-computer-core]] — the hostage standoff and the ceasefire.
-- The station's spine — a freight-platform ride that ended on top of an Imperial checkpoint.
-- [[bay-nine]] — the bribed berth they never quite reached.
+- The central spine — its passenger car welded off in the refit, its freight platform still running through a shaft of coolant machinery. The ride ended on top of an Imperial checkpoint.
+- [[bay-nine]] — the bribe berth they never quite reached.

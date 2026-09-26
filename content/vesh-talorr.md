@@ -11,13 +11,15 @@ A Corellian-born Duros pilot contracted to [[kordyne]]. Calm in the cockpit, pre
 
 ## History
 
-- Recognised [[eleena-daru]] from a previous betrayal.
+- Bound into the collar programme alongside [[eleena-daru]] and [[kenno-thorn]], carrying an old grievance against [[eleena-daru]] for a previous betrayal.
 - [[kordyne]] holds his contract debt.
 - Spotted a batch-synchronisation window in how the [[cresh-spike]] collars are handled — a possible weakness in the procedure.
 
 ## On Vannix
 
-Forced the freight platform's manual brake and brought it down on the checkpoint. Spent his last stun grenade covering the retreat, and forced the corroded hatch that led toward [[bay-nine]]. In custody he felt the floor lean when no floor should.
+Wrestled the unmanned [[mournful-credit]] off its collision course and into a survivable maintenance collar, and was badly hurt doing it. Shook off the crash, grabbed a sidearm and wounded [[kalax]].
+
+He asked [[telsa-brie]] the question that got her talking, and then asked her to get the collars off. Her diagnostic on his collar threw him into a wall. His memory of refit-yard design sent the crew down the spine elevator. He forced the freight platform's manual brake to bring it down on the checkpoint, spent his last stun grenade covering the retreat, and forced the corroded hatch that led toward [[bay-nine]]. In custody he felt the floor lean when no floor should.
 
 ## On Cathal's Reach
 

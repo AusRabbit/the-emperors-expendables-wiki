@@ -45,12 +45,12 @@ A backcountry local who saw the crew fight and wasn't fooled. Nobody knows what 
 ### The Vannix evidence
 `open` Deferred
 
-[[cassian-vorn]] believes the [[vannix-evidence|massacre evidence]] survived and that someone is carrying it. He has promised to raise it again, "less politely".
+[[cassian-vorn]] believes the [[vannix-evidence|evidence]] survived and that someone is carrying it. It proves the massacre and the [[penal-program]] behind the crew's own collars, and a Rebel relay cell was already in contact with the station. He has promised to raise it again, "less politely".
 
 ### The collars
 `open` Background
 
-Where is the true root controller for [[cresh-spike]]? Can the final response be blocked, reversed or removed? Nobody has answers yet.
+Where is the true root controller for [[cresh-spike]]? Can the final response be blocked, reversed or removed? [[telsa-brie]]'s best lead was a calibration station, or a live technician console with officer-level keys, to spoof a maintenance cycle and perhaps kill the remote stun. *Maybe.*
 
 ### Vannix loose ends
 `open` Dormant

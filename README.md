@@ -6,7 +6,7 @@ open threads and a cross-linked cast.
 ## Where the content comes from
 
 Sessions 1–3 were compiled from the GM's campaign ledger (kept in a separate
-private repo). Everything here is **player-safe**: only what the party has
+private repo) and the GM's read-only Discord channel. Everything here is **player-safe**: only what the party has
 learned at the table. Future sessions will be added from recordings:
 
 ```

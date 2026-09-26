@@ -6,7 +6,7 @@ order: 1
 dek: "Collared prisoners, deniable missions, and a handler who holds the off switch."
 ---
 
-Shortly after the destruction of the Death Star, the Empire found a use for prisoners it could afford to lose. Fitted with [[cresh-spike]] collars and handed to [[cassian-vorn]], they became deniable assets: sent where regular troops could not be seen, and switched off if they strayed. Somewhere in the Imperial paperwork they are known, unofficially, as [[penal-program|the Emperor's Dirty Dozen]].
+Shortly after the destruction of the Death Star, the Empire found a use for prisoners it could afford to lose. Fitted with [[cresh-spike]] collars and handed to [[cassian-vorn]], they became deniable assets of the [[penal-program]]: sent where regular troops could not be seen, and switched off if they strayed. Unofficially, they are known as the Emperor's Dirty Dozen.
 
 Three of them are the crew this wiki follows.
 
@@ -18,10 +18,9 @@ Three of them are the crew this wiki follows.
 
 ## The Story So Far
 
-> [!note] Episode I — The Collars Come Out
-> The crew's intake, their fitting with collars and their first dealings with [[elo-kesh]], [[lysa-venn]] and [[rx-44]] happened before this record begins. Those pages are stubs for now.
+**Episode I — The Collars Come Out.** Concluded. [[eleena-daru]] and [[kenno-thorn]] began in custody at [[annex-17]], where a failed escape and a Cage Market fight against [[kalax]]'s crew marked them as dangerous. [[vesh-talorr]] was bound in alongside them. All three were collared and handed to [[cassian-vorn]] of the [[isb]]. Summarised at the top of [[session-1]].
 
-**Mission 01 — No Survivors on Vannix Station.** Concluded in [[session-1]]. The crew were crashed into [[vannix-station]] aboard the [[mournful-credit]] to recover data, erase evidence and remove witnesses under cover of a pirate raid. They found proof of an Imperial massacre instead, learned what the collars really are, and were stopped at the threshold of [[bay-nine]] when the collars shut them down.
+**Mission 01 — No Survivors on Vannix Station.** Concluded in [[session-1]]. The crew were crashed into [[vannix-station|Vannix Relay Station]] aboard the unmanned [[mournful-credit]], with [[kalax]]'s crew sent in as competition, to take the data core, erase the records and leave no witnesses under cover of a pirate raid. They found proof of an Imperial massacre instead, learned what the collars really are, and were stopped at the threshold of [[bay-nine]] when the collars shut them down.
 
 **Interlude — Custody.** A debrief with [[cassian-vorn]] aboard what may be a moving Imperial vessel. See [[session-2]].
 

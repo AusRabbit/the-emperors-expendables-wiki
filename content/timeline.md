@@ -4,19 +4,29 @@ group: "Campaign"
 type: doc
 layout: timeline
 order: 2
-dek: "Every beat in order, marked by mission. INT is the custody interlude."
+dek: "Every beat in order, marked by mission. EP1 is Episode I; INT is the custody interlude."
 ---
+
+## Before Session 1
+
+- `EP1` **Annex 17** — [[eleena-daru]] and [[kenno-thorn]] in custody at [[annex-17]]. A failed escape and a Cage Market fight with [[kalax]]'s crew mark them as dangerous prospects. They meet [[elo-kesh]].
+- `EP1` **Collared** — [[vesh-talorr]] joins them. All three are collared, interrogated and handed to [[cassian-vorn]] of the [[isb]].
+- `EP1` **The orders** — Infiltrate [[vannix-station]], take the data core, erase the records, stage a pirate attack, leave no witnesses. [[kalax]]'s crew are sent as competition.
 
 ## Session 1
 
-- `M01` **Collared and deployed** — [[cassian-vorn]] loads collared prisoners aboard the [[mournful-credit]], staged as a pirate raider.
-- `M01` **The crash** — The freighter hits [[vannix-station]]. [[kalax]] and [[sera]] become rivals; the [[cautious-nikto|Cautious Nikto]] dies to [[eleena-daru]]'s grenade and [[kenno-thorn]] takes his pistol.
+- `M01` **Collision course** — The crew wake aboard the unmanned [[mournful-credit]]. [[vesh-talorr]] steers the crash into a maintenance collar; [[kenno-thorn]] seals the breach.
+- `M01` **The fight in the wreck** — [[kalax]]'s crew go for weapons. [[vesh-talorr]] wounds [[kalax]]; [[eleena-daru]] breaks [[sera]]'s weapon, and her grenade kills [[cautious-nikto|the Nikto]]. [[kenno-thorn]] takes his pistol.
+- `M01` **The iris** — [[eleena-daru]]'s attempt at a deal fails. [[kalax]] and [[sera]] seal a service iris behind them and leave the crew exposed.
 - `M01` **Communications Control** — [[telsa-brie]] and [[rusk]] are caught moving proof of a massacre off-station. The transmission freezes at 91%; [[rusk]] keeps the clean copy.
-- `M01` **What the collars are** — [[cresh-spike]] is revealed as ISB restraint tech with a sealed final response, relayed through the [[black-warrant]].
+- `M01` **The alcove** — [[telsa-brie]] explains [[cresh-spike]], the deniable-asset evidence and the Rebel relay cell. Her diagnostic on [[vesh-talorr]]'s collar shocks him but finds the command-node sync.
+- `M01` **Patch-up** — [[kenno-thorn]] uses the last stimpack and cobbles an improvised one for [[eleena-daru]]. *"Buy me a drink first next time."*
+- `M01` **The cylinder** — [[kenno-thorn]] catches [[telsa-brie]] guessing about the core. [[eleena-daru]] produces her [[code-cylinder]]; station overalls all round.
 - `M01` **The Core** — [[eleena-daru]] takes [[telsa-brie]] hostage; [[arden-vel]] and the core's defenders fall. A ceasefire with [[kalax]] and [[sera]].
-- `M01` **False loop** — The [[black-warrant]] identifies all five collars; [[telsa-brie]] loops its lock and starts a redirect.
-- `M01` **The standoff** — [[eleena-daru]] moves to execute [[telsa-brie]]; [[sera]] draws on her. How it ended was never played out.
-- `M01` **The spine** — A stolen freight platform stalls four decks above a checkpoint that has just tagged the collars.
+- `M01` **False loop** — The [[black-warrant]] identifies all five collars; [[telsa-brie]] loops its lock. Assault shuttles on approach.
+- `M01` **The standoff** — [[eleena-daru]] moves to execute [[telsa-brie]]; [[sera]] draws on her; [[kalax]] won't back Eleena. How it ended was never played out.
+- `M01` **Which way out** — [[eleena-daru]] names [[bay-nine]]; [[kenno-thorn]] argues for escape pods; [[vesh-talorr]] suggests the spine elevator.
+- `M01` **The spine** — The freight platform stalls four decks above a checkpoint that has just tagged the collars.
 - `M01` **The drop** — [[vesh-talorr]] releases the brake and the platform crushes the checkpoint. [[eleena-daru]] executes the survivor.
 - `M01` **The bulkhead** — [[eleena-daru]]'s [[code-cylinder]] forces the lockdown; [[kenno-thorn]] holds the door until everyone is through.
 - `M01` **Capture** — Within sight of [[bay-nine]], the final response drops all five collar-bearers. *"Cute. Sit tight."* 5 XP each.
